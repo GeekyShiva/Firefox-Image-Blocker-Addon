@@ -1,0 +1,16 @@
+{
+  "title": "Image Blocker",
+  "name": "imageblocker",
+  "version": "0.0.1",
+  "description": "blocking/unblocking images on a page",
+  "main": "lib/main.js",
+  "author": "shivang shekhar",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
